@@ -650,6 +650,7 @@ svg{
   .container{
     margin-inline: 1rem;
   }
+  
   .skills__content{
     grid-template-columns: max-content;
     row-gap: 1rem;
@@ -668,6 +669,7 @@ svg{
   .home__education .text{
     font-size: var(--bigger-font-size);
   }
+
   .skills__content{
     grid-template-columns: max-content;
     row-gap: 1rem;
@@ -708,7 +710,7 @@ svg{
     margin-bottom: 2rem;
   }
   .home__education .text{
-    font-size: var(--biggest-font-size);
+    font-size: var(--bigger-font-size);
   }
   .nav__menu{
     width: 55%;
@@ -734,7 +736,7 @@ svg{
 
   .home__blob,
   .about__blob{
-    width: 400px;
+    width: 380px;
   }
 
   .about__data{
